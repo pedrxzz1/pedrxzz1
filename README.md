@@ -42,22 +42,21 @@
 
 ### 📊 Estatísticas
 
+<div align="center">
 
-<p>
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding-right: 20px;" 
     src="https://github-readme-stats.vercel.app/api?username=pedrxzz1&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     alt="Top Languages" 
     height="200" 
-    width="400" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrxzz1&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-</p>
+
+</div>
 
  
